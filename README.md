@@ -1,2 +1,2 @@
 "# CheckMate" 
-https://github.com/gogiri/CheckMate/issues/1#issue-2081319037
+[최종ppt_복사본.pdf](https://github.com/gogiri/CheckMate/files/13935444/ppt_.pdf)
