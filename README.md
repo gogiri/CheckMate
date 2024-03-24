@@ -1,8 +1,6 @@
  <h2>설명 가능한 인공지능(XAI) 기반 외감기업 부실예측모형에 대한 연구<h2>
 
 ![최종ppt_복사본_page-0001](https://github.com/gogiri/CheckMate/assets/139231430/c09643b7-f2ae-41ea-a79c-4f0d394ad84d)
-![최종ppt_복사본_page-0002](https://github.com/gogiri/CheckMate/assets/139231430/2e0a6ab8-2014-416c-a4ba-442e99c69219)
-![최종ppt_복사본_page-0002](https://github.com/gogiri/CheckMate/assets/139231430/4ad8edf9-0848-4f69-8fef-a009ee2b4a3c)
 ![최종ppt_복사본_page-0003](https://github.com/gogiri/CheckMate/assets/139231430/d9b2696f-1804-4f4a-8a99-61af44508a50)
 ![Uploa![최종ppt_복사본_page-0005](https://github.com/gogiri/CheckMate/assets/139231430/90407d81-9a26-4b1f-bbd8-bd7ed96ce771)
 ![최종ppt_복사본_page-0006](https://github.com/gogiri/CheckMate/assets/139231430/f0a9c482-1d08-4ae0-9d35-9ff25103518c)
