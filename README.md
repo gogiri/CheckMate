@@ -31,7 +31,6 @@
 ![최종ppt_복사본_page-0031](https://github.com/gogiri/CheckMate/assets/139231430/37aac311-2a4d-42d8-a08b-5c6b798be25e)
 ![최종ppt_복사본_page-0032](https://github.com/gogiri/CheckMate/assets/139231430/1971372a-666e-4836-85d7-a4a606ec957a)
 ![최종ppt_복사본_page-0033](https://github.com/gogiri/CheckMate/assets/139231430/62ffce9e-0d54-47b7-bef0-cc82bbf3e707)
-![최종ppt_복사본_page-0034](https://github.com/gogiri/CheckMate/assets/139231430/f9a40cff-21c4-4c67-96cd-5701433b8bc2)
 
 한계점
 
